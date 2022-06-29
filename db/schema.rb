@@ -10,7 +10,15 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_06_28_170259) do
+ActiveRecord::Schema.define(version: 2022_06_29_213526) do
+
+  create_table "employees", force: :cascade do |t|
+    t.integer "employee_no"
+    t.string "full_names"
+    t.string "role"
+    t.string "id_number"
+    t.integer "salary"
+  end
 
   create_table "parents", force: :cascade do |t|
     t.string "fathers_full_names"
@@ -26,12 +34,26 @@ ActiveRecord::Schema.define(version: 2022_06_28_170259) do
     t.integer "admision_number"
   end
 
+  create_table "schoolfees", force: :cascade do |t|
+    t.datetime "transaction_day"
+    t.integer "admision_number"
+    t.integer "ammount"
+  end
+
   create_table "students", force: :cascade do |t|
     t.string "Full_names"
     t.integer "admision_number"
     t.datetime "date_of_birth"
     t.integer "parent_id"
     t.string "level"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "wages", force: :cascade do |t|
+    t.integer "employee_no"
+    t.datetime "transaction_date"
+    t.integer "ammount"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

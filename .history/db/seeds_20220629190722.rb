@@ -4250,4420 +4250,520 @@ Parent.create(
  }
 ]
 )
+Employee.create(
 
 Wage.create(
-[
- {
-   "transaction_date": "01/18/2021",
-   "employee_no": 2004,
-   "ammount": 1500,
-   
- },
- {
-   "transaction_date": "01/18/2021",
-   "employee_no": 2005,
-   "ammount": 3500,
-   
- },
- {
-   "transaction_date": "01/25/2021",
-   "employee_no": 2005,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "02/02/2021",
-   "employee_no": 2005,
-   "ammount": 9000,
-   
- },
- {
-   "transaction_date": "02/02/2021",
-   "employee_no": 2004,
-   "ammount": 9000,
-   
- },
- {
-   "transaction_date": "02/02/2021",
-   "employee_no": 2010,
-   "ammount": 3500,
-   
- },
- {
-   "transaction_date": "02/02/2021",
-   "employee_no": 2009,
-   "ammount": 4000,
-   
- },
- {
-   "transaction_date": "02/04/2021",
-   "employee_no": 2002,
-   "ammount": 10000,
-   
- },
- {
-   "transaction_date": "03/12/2021",
-   "employee_no": 2004,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "03/12/2021",
-   "employee_no": 2005,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "03/12/2021",
-   "employee_no": 2002,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "03/12/2021",
-   "employee_no": 2009,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "03/12/2021",
-   "employee_no": 2010,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "03/12/2021",
-   "employee_no": 2013,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "03/19/2021",
-   "employee_no": 2002,
-   "ammount": 3000,
-   
- },
- {
-   "transaction_date": "03/19/2021",
-   "employee_no": 2005,
-   "ammount": 1500,
-   
- },
- {
-   "transaction_date": "03/19/2021",
-   "employee_no": 2004,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "03/31/2021",
-   "employee_no": 2002,
-   "ammount": 3000,
-   
- },
- {
-   "transaction_date": "03/31/2021",
-   "employee_no": 2009,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "03/31/2021",
-   "employee_no": 2005,
-   "ammount": 3000,
-   
- },
- {
-   "transaction_date": "03/31/2021",
-   "employee_no": 2004,
-   "ammount": 3000,
-   
- },
- {
-   "transaction_date": "03/31/2021",
-   "employee_no": 2010,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "04/23/2021",
-   "employee_no": 2010,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "04/23/2021",
-   "employee_no": 2009,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "04/23/2021",
-   "employee_no": 2005,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "04/23/2021",
-   "employee_no": 2002,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "04/23/2021",
-   "employee_no": 2004,
-   "ammount": 1500,
-   
- },
- {
-   "transaction_date": "05/13/2021",
-   "employee_no": 2009,
-   "ammount": 5000,
-   
- },
- {
-   "transaction_date": "05/13/2021",
-   "employee_no": 2004,
-   "ammount": 3500,
-   
- },
- {
-   "transaction_date": "05/13/2021",
-   "employee_no": 2010,
-   "ammount": 5000,
-   
- },
- {
-   "transaction_date": "05/13/2021",
-   "employee_no": 2005,
-   "ammount": 5000,
-   
- },
- {
-   "transaction_date": "05/13/2021",
-   "employee_no": 2002,
-   "ammount": 5000,
-   
- },
- {
-   "transaction_date": "05/24/2021",
-   "employee_no": 2005,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "05/24/2021",
-   "employee_no": 2009,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "05/24/2021",
-   "employee_no": 2004,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "05/24/2021",
-   "employee_no": 2010,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "05/24/2021",
-   "employee_no": 2011,
-   "ammount": 1000,
-   
- },
- {
-   "transaction_date": "05/24/2021",
-   "employee_no": 2012,
-   "ammount": 1300,
-   
- },
- {
-   "transaction_date": "05/29/2021",
-   "employee_no": 2005,
-   "ammount": 5000,
-   
- },
- {
-   "transaction_date": "06/01/2021",
-   "employee_no": 2010,
-   "ammount": 3000,
-   
- },
- {
-   "transaction_date": "06/07/2021",
-   "employee_no": 2002,
-   "ammount": 10000,
-   
- },
- {
-   "transaction_date": "06/08/2021",
-   "employee_no": 2011,
-   "ammount": 4000,
-   
- },
- {
-   "transaction_date": "06/09/2021",
-   "employee_no": 2010,
-   "ammount": 4000,
-   
- },
- {
-   "transaction_date": "06/09/2021",
-   "employee_no": 2004,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "06/09/2021",
-   "employee_no": 2012,
-   "ammount": 7000,
-   
- },
- {
-   "transaction_date": "06/09/2021",
-   "employee_no": 2005,
-   "ammount": 4000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2002,
-   "ammount": 12000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2005,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2004,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2011,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2010,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2012,
-   "ammount": 10000,
-   
- },
- {
-   "transaction_date": "07/17/2021",
-   "employee_no": 2011,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "08/06/2021",
-   "employee_no": 2011,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/06/2021",
-   "employee_no": 2005,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/06/2021",
-   "employee_no": 2012,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/06/2021",
-   "employee_no": 2010,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/06/2021",
-   "employee_no": 2002,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/13/2021",
-   "employee_no": 2011,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "08/13/2021",
-   "employee_no": 2005,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "08/13/2021",
-   "employee_no": 2010,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/13/2021",
-   "employee_no": 2004,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/13/2021",
-   "employee_no": 2012,
-   "ammount": 2000,
-   
- },
- {
-   "transaction_date": "08/16/2021",
-   "employee_no": 2002,
-   "ammount": 3000,
-   
- },
- {
-   "transaction_date": "09/06/2021",
-   "employee_no": 2002,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "09/06/2021",
-   "employee_no": 2005,
-   "ammount": 8000,
-   
- },
- {
-   "transaction_date": "09/06/2021",
-   "employee_no": 2004,
-   "ammount": 7000,
-   
- },
- {
-   "transaction_date": "09/06/2021",
-   "employee_no": 2010,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "09/06/2021",
-   "employee_no": 2011,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "09/07/2021",
-   "employee_no": 2012,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "09/07/2021",
-   "employee_no": 2010,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "09/07/2021",
-   "employee_no": 2011,
-   "ammount": 6000,
-   
- },
- {
-   "transaction_date": "09/07/2021",
-   "employee_no": 2005,
-   "ammount": 8000,
-   
- }
-])
-
-Schoolfee.create(
   [
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1001,
-   "ammount": 500
+   "id": 1,
+   "transaction_date": "01/18/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh1,500.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1002,
-   "ammount": 800
+   "id": 2,
+   "transaction_date": "01/18/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh3,500.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1003,
-   "ammount": 800
+   "id": 3,
+   "transaction_date": "01/25/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1004,
-   "ammount": 700
+   "id": 4,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh9,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1005,
-   "ammount": 700
+   "id": 5,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh9,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1006,
-   "ammount": 800
+   "id": 6,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh3,500.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1007,
-   "ammount": 700
+   "id": 7,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "VIOLA CHEROTICH",
+   "AMMOUNT": "Ksh4,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1008,
-   "ammount": 800
+   "id": 8,
+   "transaction_date": "02/04/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh10,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1009,
-   "ammount": 500
+   "id": 9,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1010,
-   "ammount": 0
+   "id": 10,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1011,
-   "ammount": 800
+   "id": 11,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1012,
-   "ammount": 700
+   "id": 12,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "VIOLA CHEROTICH",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1013,
-   "ammount": 0
+   "id": 13,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1014,
-   "ammount": 800
+   "id": 14,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2013,
+   "EXPENDITURE": "TIMOTHY MWANGI",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1015,
-   "ammount": 800
+   "id": 15,
+   "transaction_date": "03/19/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh3,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1016,
-   "ammount": 800
+   "id": 16,
+   "transaction_date": "03/19/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh1,500.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1017,
-   "ammount": 800
+   "id": 17,
+   "transaction_date": "03/19/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1018,
-   "ammount": 800
+   "id": 18,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh3,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1019,
-   "ammount": 800
+   "id": 19,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "VIOLA CHEROTICH",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1020,
-   "ammount": 800
+   "id": 20,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh3,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1021,
-   "ammount": 800
+   "id": 21,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh3,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1022,
-   "ammount": 500
+   "id": 22,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1023,
-   "ammount": 350
+   "id": 23,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1024,
-   "ammount": 800
+   "id": 24,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "VIOLA CHEROTICH",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1025,
-   "ammount": 600
+   "id": 25,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1026,
-   "ammount": 500
+   "id": 26,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1027,
-   "ammount": 700
+   "id": 27,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh1,500.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1028,
-   "ammount": 700
+   "id": 28,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "VIOLA CHEROTICH",
+   "AMMOUNT": "Ksh5,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1029,
-   "ammount": 0
+   "id": 29,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh3,500.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1030,
-   "ammount": 800
+   "id": 30,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh5,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1031,
-   "ammount": 800
+   "id": 31,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh5,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1032,
-   "ammount": 800
+   "id": 32,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh5,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1033,
-   "ammount": 700
+   "id": 33,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1034,
-   "ammount": 800
+   "id": 34,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "VIOLA CHEROTICH",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1035,
-   "ammount": 0
+   "id": 35,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1036,
-   "ammount": 0
+   "id": 36,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1037,
-   "ammount": 600
+   "id": 37,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh1,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1038,
-   "ammount": 800
+   "id": 38,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "REDEMPTA ANDEKA",
+   "AMMOUNT": "Ksh1,300.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1039,
-   "ammount": 800
+   "id": 39,
+   "transaction_date": "05/29/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh5,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1040,
-   "ammount": 800
+   "id": 40,
+   "transaction_date": "06/01/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh3,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1041,
-   "ammount": 800
+   "id": 41,
+   "transaction_date": "06/07/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh10,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1042,
-   "ammount": 0
+   "id": 42,
+   "transaction_date": "06/08/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh4,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1043,
-   "ammount": 600
+   "id": 43,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh4,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1044,
-   "ammount": 800
+   "id": 44,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1045,
-   "ammount": 800
+   "id": 45,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "REDEMPTA ANDEKA",
+   "AMMOUNT": "Ksh7,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1046,
-   "ammount": 800
+   "id": 46,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh4,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1047,
-   "ammount": 0
+   "id": 47,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh12,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1048,
-   "ammount": 800
+   "id": 48,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1049,
-   "ammount": 800
+   "id": 49,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1050,
-   "ammount": 800
+   "id": 50,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1051,
-   "ammount": 800
+   "id": 51,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1052,
-   "ammount": 800
+   "id": 52,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "REDEMPTA ANDEKA",
+   "AMMOUNT": "Ksh10,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1053,
-   "ammount": 800
+   "id": 53,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1054,
-   "ammount": 800
+   "id": 54,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1055,
-   "ammount": 800
+   "id": 55,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1056,
-   "ammount": 800
+   "id": 56,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "REDEMPTA ANDEKA",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1057,
-   "ammount": 800
+   "id": 57,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1058,
-   "ammount": 800
+   "id": 58,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1059,
-   "ammount": 0
+   "id": 59,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1060,
-   "ammount": 300
+   "id": 60,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1061,
-   "ammount": 800
+   "id": 61,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1062,
-   "ammount": 800
+   "id": 62,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1063,
-   "ammount": 800
+   "id": 63,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "REDEMPTA ANDEKA",
+   "AMMOUNT": "Ksh2,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1064,
-   "ammount": 0
+   "id": 64,
+   "transaction_date": "08/16/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh3,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1065,
-   "ammount": 0
+   "id": 65,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "CLARA KIRO",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1066,
-   "ammount": 700
+   "id": 66,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh8,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1067,
-   "ammount": 300
+   "id": 67,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "AMINA RAMADHAN",
+   "AMMOUNT": "Ksh7,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1068,
-   "ammount": 800
+   "id": 68,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1069,
-   "ammount": 800
+   "id": 69,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1070,
-   "ammount": 800
+   "id": 70,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "REDEMPTA ANDEKA",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1071,
-   "ammount": 0
+   "id": 71,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "LILLIAN OKUMU",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1072,
-   "ammount": 0
+   "id": 72,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "SCHOLASTICA BIYAKI",
+   "AMMOUNT": "Ksh6,000.00 "
  },
  {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1073,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1074,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1075,
-   "ammount": 400
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1076,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1077,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1078,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1079,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1080,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1081,
-   "ammount": 200
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1082,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1083,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1084,
-   "ammount": 250
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1085,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1086,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1087,
-   "ammount": 1300
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1088,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1089,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1090,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1091,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1092,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1093,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1094,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1095,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1096,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1097,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1098,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1099,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1100,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1101,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1102,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1103,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1104,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1105,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1106,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1107,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1108,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1109,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1110,
-   "ammount": 250
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1111,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1112,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1113,
-   "ammount": 200
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1114,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1115,
-   "ammount": 600
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1116,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1117,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1118,
-   "ammount": 200
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1119,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1120,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1121,
-   "ammount": 200
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1122,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1123,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1124,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1125,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1126,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1127,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1128,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1129,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1130,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1131,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1132,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1133,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1134,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1135,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1136,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1137,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1138,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1139,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1140,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1141,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1142,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1143,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1144,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1145,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1146,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1147,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1148,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1149,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1150,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1151,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1152,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1153,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1154,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1155,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1156,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1157,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1158,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1159,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1160,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1161,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1162,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1163,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1164,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1165,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1166,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1167,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1168,
-   "ammount": 350
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1169,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1170,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1171,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1172,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1173,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1174,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1175,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1176,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1177,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1178,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1179,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1180,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1181,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1182,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1183,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1184,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1185,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1186,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1187,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1188,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1189,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1190,
-   "ammount": 300
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1191,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1192,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1193,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1194,
-   "ammount": 450
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1195,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1196,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1197,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1198,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1199,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1200,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1201,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1202,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1203,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1204,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1205,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1206,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1207,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1208,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1209,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1210,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1211,
-   "ammount": 400
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1212,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1213,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1214,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1215,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1216,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1217,
-   "ammount": 300
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1218,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1219,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1220,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1221,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1222,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1223,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1224,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1225,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1226,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1227,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1228,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1229,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1230,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1231,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1232,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1233,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1234,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1235,
-   "ammount": 400
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1236,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1237,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1238,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1239,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1240,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1241,
-   "ammount": 500
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1242,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1243,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1244,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1245,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1246,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1247,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1248,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1249,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1250,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1251,
-   "ammount": 600
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1252,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1253,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1254,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1255,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1256,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1257,
-   "ammount": 800
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1258,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1259,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1260,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1261,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1262,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1263,
-   "ammount": 0
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1264,
-   "ammount": 700
- },
- {
-   "transaction_day": "05/01/2021",
-   "admision_number": 1265,
-   "ammount": 57800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1001,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1002,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1003,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1004,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1005,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1006,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1007,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1008,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1009,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1010,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1011,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1012,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1013,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1014,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1015,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1016,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1017,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1018,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1019,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1020,
-   "ammount": 100
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1021,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1022,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1023,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1024,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1025,
-   "ammount": 600
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1026,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1027,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1028,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1029,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1030,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1031,
-   "ammount": 400
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1032,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1033,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1034,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1035,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1036,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1037,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1038,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1039,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1040,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1041,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1042,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1043,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1044,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1045,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1046,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1047,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1048,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1049,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1050,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1051,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1052,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1053,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1054,
-   "ammount": 750
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1055,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1056,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1057,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1058,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1059,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1060,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1061,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1062,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1063,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1064,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1065,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1066,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1067,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1068,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1069,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1070,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1071,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1072,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1073,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1074,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1075,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1076,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1077,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1078,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1079,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1080,
-   "ammount": 100
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1081,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1082,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1083,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1084,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1085,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1086,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1087,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1088,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1089,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1090,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1091,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1092,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1093,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1094,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1095,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1096,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1097,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1098,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1099,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1100,
-   "ammount": 600
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1101,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1102,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1103,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1104,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1105,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1106,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1107,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1108,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1109,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1110,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1111,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1112,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1113,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1114,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1115,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1116,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1117,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1118,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1119,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1120,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1121,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1122,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1123,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1124,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1125,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1126,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1127,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1128,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1129,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1130,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1131,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1132,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1133,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1134,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1135,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1136,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1137,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1138,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1139,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1140,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1141,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1142,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1143,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1144,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1145,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1146,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1147,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1148,
-   "ammount": 300
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1149,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1150,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1151,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1152,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1153,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1154,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1155,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1156,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1157,
-   "ammount": 600
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1158,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1159,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1160,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1161,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1162,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1163,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1164,
-   "ammount": 600
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1165,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1166,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1167,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1168,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1169,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1170,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1171,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1172,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1173,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1174,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1175,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1176,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1177,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1178,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1179,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1180,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1181,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1182,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1183,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1184,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1185,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1186,
-   "ammount": 300
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1187,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1188,
-   "ammount": 900
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1189,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1190,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1191,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1192,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1193,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1194,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1195,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1196,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1197,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1198,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1199,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1200,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1201,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1202,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1203,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1204,
-   "ammount": 300
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1205,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1206,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1207,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1208,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1209,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1210,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1211,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1212,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1213,
-   "ammount": 300
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1214,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1215,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1216,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1217,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1218,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1219,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1220,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1221,
-   "ammount": 200
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1222,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1223,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1224,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1225,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1226,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1227,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1228,
-   "ammount": 800
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1229,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1230,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1231,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1232,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1233,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1234,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1235,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1236,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1237,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1238,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1239,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1240,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1241,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1242,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1243,
-   "ammount": 600
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1244,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1245,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1246,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1247,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1248,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1249,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1250,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1251,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1252,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1253,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1254,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1255,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1256,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1257,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1258,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1259,
-   "ammount": 500
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1260,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1261,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1262,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1263,
-   "ammount": 0
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1264,
-   "ammount": 700
- },
- {
-   "transaction_day": "06/01/2021",
-   "admision_number": 1265,
-   "ammount": 49300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1001,
-   "ammount": 250
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1002,
-   "ammount": 1400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1003,
-   "ammount": 1150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1004,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1005,
-   "ammount": 200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1006,
-   "ammount": 1050
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1007,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1008,
-   "ammount": 250
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1009,
-   "ammount": 250
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1010,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1011,
-   "ammount": 850
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1012,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1013,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1014,
-   "ammount": 750
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1015,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1016,
-   "ammount": 50
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1017,
-   "ammount": 250
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1018,
-   "ammount": 1050
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1019,
-   "ammount": 1050
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1020,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1021,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1022,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1023,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1024,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1025,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1026,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1027,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1028,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1029,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1030,
-   "ammount": 1150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1031,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1032,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1033,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1034,
-   "ammount": 1150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1035,
-   "ammount": 400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1036,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1037,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1038,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1039,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1040,
-   "ammount": 850
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1041,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1042,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1043,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1044,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1045,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1046,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1047,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1048,
-   "ammount": 700
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1049,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1050,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1051,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1052,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1053,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1054,
-   "ammount": 150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1055,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1056,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1057,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1058,
-   "ammount": 2400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1059,
-   "ammount": 250
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1060,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1061,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1062,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1063,
-   "ammount": 550
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1064,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1065,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1066,
-   "ammount": 550
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1067,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1068,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1069,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1070,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1071,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1072,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1073,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1074,
-   "ammount": 1000
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1075,
-   "ammount": 150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1076,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1077,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1078,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1079,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1080,
-   "ammount": 150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1081,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1082,
-   "ammount": 950
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1083,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1084,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1085,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1086,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1087,
-   "ammount": 400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1088,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1089,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1090,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1091,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1092,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1093,
-   "ammount": 50
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1094,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1095,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1096,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1097,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1098,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1099,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1100,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1101,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1102,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1103,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1104,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1105,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1106,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1107,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1108,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1109,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1110,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1111,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1112,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1113,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1114,
-   "ammount": 200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1115,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1116,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1117,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1118,
-   "ammount": 200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1119,
-   "ammount": 1000
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1120,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1121,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1122,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1123,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1124,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1125,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1126,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1127,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1128,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1129,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1130,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1131,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1132,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1133,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1134,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1135,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1136,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1137,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1138,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1139,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1140,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1141,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1142,
-   "ammount": 200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1143,
-   "ammount": 1000
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1144,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1145,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1146,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1147,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1148,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1149,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1150,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1151,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1152,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1153,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1154,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1155,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1156,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1157,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1158,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1159,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1160,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1161,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1162,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1163,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1164,
-   "ammount": 200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1165,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1166,
-   "ammount": 400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1167,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1168,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1169,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1170,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1171,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1172,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1173,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1174,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1175,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1176,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1177,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1178,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1179,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1180,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1181,
-   "ammount": 1200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1182,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1183,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1184,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1185,
-   "ammount": 1000
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1186,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1187,
-   "ammount": 600
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1188,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1189,
-   "ammount": 400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1190,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1191,
-   "ammount": 1150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1192,
-   "ammount": 900
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1193,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1194,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1195,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1196,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1197,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1198,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1199,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1200,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1201,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1202,
-   "ammount": 550
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1203,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1204,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1205,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1206,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1207,
-   "ammount": 400
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1208,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1209,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1210,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1211,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1212,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1213,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1214,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1215,
-   "ammount": 700
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1216,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1217,
-   "ammount": 200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1218,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1219,
-   "ammount": 150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1220,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1221,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1222,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1223,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1224,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1225,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1226,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1227,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1228,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1229,
-   "ammount": 100
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1230,
-   "ammount": 150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1231,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1232,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1233,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1234,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1235,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1236,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1237,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1238,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1239,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1240,
-   "ammount": 300
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1241,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1242,
-   "ammount": 700
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1243,
-   "ammount": 1150
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1244,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1245,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1246,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1247,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1248,
-   "ammount": 500
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1249,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1250,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1251,
-   "ammount": 700
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1252,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1253,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1254,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1255,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1256,
-   "ammount": 700
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1257,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1258,
-   "ammount": 1200
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1259,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1260,
-   "ammount": 800
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1261,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1262,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1263,
-   "ammount": 0
- },
- {
-   "transaction_day": "07/01/2021",
-   "admision_number": 1264,
-   "ammount": 700
+   "id": 73,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": "Ksh8,000.00 "
  }
 ]
 )

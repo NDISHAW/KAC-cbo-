@@ -1,0 +1,2 @@
+class Schoolfee < ActiveRecord::Base
+    

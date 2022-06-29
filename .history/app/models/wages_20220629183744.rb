@@ -1,0 +1,3 @@
+class Wages < ActiveRecord
+
+end

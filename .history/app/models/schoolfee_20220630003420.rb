@@ -1,0 +1,1 @@
+class Schoolfee < ActiveRecord::

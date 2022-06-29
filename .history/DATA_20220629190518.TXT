@@ -1,0 +1,589 @@
+DATE	STAFF NO	FIRST NAME	2ND NAME	 AMMOUNT 	STAFF NO
+01/18/2021		AMINA	RAMADHAN	 Ksh1,500.00 	
+01/18/2021		ROSELINE	MUKAFWA	 Ksh3,500.00 	
+01/25/2021		ROSELINE	MUKAFWA	 Ksh1,000.00 	
+02/02/2021		ROSELINE	MUKAFWA	 Ksh9,000.00 	
+02/02/2021		AMINA	RAMADHAN	 Ksh9,000.00 	
+02/02/2021		LILLIAN	OKUMU	 Ksh3,500.00 	
+02/02/2021		VIOLA	CHEROTICH	 Ksh4,000.00 	
+02/04/2021		CLARA	KIRO	 Ksh10,000.00 	
+03/12/2021		AMINA	RAMADHAN	 Ksh8,000.00 	
+03/12/2021		ROSELINE	MUKAFWA	 Ksh8,000.00 	
+03/12/2021		CLARA	KIRO	 Ksh8,000.00 	
+03/12/2021		VIOLA	CHEROTICH	 Ksh6,000.00 	
+03/12/2021		LILLIAN	OKUMU	 Ksh6,000.00 	
+03/12/2021		TIMOTHY	MWANGI	 Ksh1,000.00 	
+03/19/2021		CLARA	KIRO	 Ksh3,000.00 	
+03/19/2021		ROSELINE	MUKAFWA	 Ksh1,500.00 	
+03/19/2021		AMINA	RAMADHAN	 Ksh1,000.00 	
+03/31/2021		CLARA	KIRO	 Ksh3,000.00 	
+03/31/2021		VIOLA	CHEROTICH	 Ksh2,000.00 	
+03/31/2021		ROSELINE	MUKAFWA	 Ksh3,000.00 	
+03/31/2021		AMINA	RAMADHAN	 Ksh3,000.00 	
+03/31/2021		LILLIAN	OKUMU	 Ksh2,000.00 	
+04/23/2021		LILLIAN	OKUMU	 Ksh2,000.00 	
+04/23/2021		VIOLA	CHEROTICH	 Ksh6,000.00 	
+04/23/2021		ROSELINE	MUKAFWA	 Ksh2,000.00 	
+04/23/2021		CLARA	KIRO	 Ksh2,000.00 	
+04/23/2021		AMINA	RAMADHAN	 Ksh1,500.00 	
+05/13/2021		VIOLA	CHEROTICH	 Ksh5,000.00 	
+05/13/2021		AMINA	RAMADHAN	 Ksh3,500.00 	
+05/13/2021		LILLIAN	OKUMU	 Ksh5,000.00 	
+05/13/2021		ROSELINE	MUKAFWA	 Ksh5,000.00 	
+05/13/2021		CLARA	KIRO	 Ksh5,000.00 	
+05/24/2021		ROSELINE	MUKAFWA	 Ksh2,000.00 	
+05/24/2021		VIOLA	CHEROTICH	 Ksh1,000.00 	
+05/24/2021		AMINA	RAMADHAN	 Ksh1,000.00 	
+05/24/2021		LILLIAN	OKUMU	 Ksh1,000.00 	
+05/24/2021		SCHOLASTICA	BIYAKI	 Ksh1,000.00 	
+05/24/2021		REDEMPTA	ANDEKA	 Ksh1,300.00 	
+05/29/2021		ROSELINE	MUKAFWA	 Ksh5,000.00 	
+06/01/2021		LILLIAN	OKUMU	 Ksh3,000.00 	
+06/07/2021		CLARA	KIRO	 Ksh10,000.00 	
+06/08/2021		SCHOLASTICA	BIYAKI	 Ksh4,000.00 	
+06/09/2021		LILLIAN	OKUMU	 Ksh4,000.00 	
+06/09/2021		AMINA	RAMADHAN	 Ksh8,000.00 	
+06/09/2021		REDEMPTA	ANDEKA	 Ksh7,000.00 	
+06/09/2021		ROSELINE	MUKAFWA	 Ksh4,000.00 	
+07/17/2021		CLARA	KIRO	 Ksh12,000.00 	
+07/17/2021		ROSELINE	MUKAFWA	 Ksh2,000.00 	
+07/17/2021		AMINA	RAMADHAN	 Ksh2,000.00 	
+07/17/2021		SCHOLASTICA	BIYAKI	 Ksh2,000.00 	
+07/17/2021		LILLIAN	OKUMU	 Ksh2,000.00 	
+07/17/2021		REDEMPTA	ANDEKA	 Ksh10,000.00 	
+07/17/2021		SCHOLASTICA	BIYAKI	 Ksh8,000.00 	
+08/06/2021		SCHOLASTICA	BIYAKI	 Ksh2,000.00 	
+08/06/2021		ROSELINE	MUKAFWA	 Ksh2,000.00 	
+08/06/2021		REDEMPTA	ANDEKA	 Ksh2,000.00 	
+08/06/2021		LILLIAN	OKUMU	 Ksh2,000.00 	
+08/06/2021		CLARA	KIRO	 Ksh2,000.00 	
+08/13/2021		SCHOLASTICA	BIYAKI	 Ksh6,000.00 	
+08/13/2021		ROSELINE	MUKAFWA	 Ksh8,000.00 	
+08/13/2021		LILLIAN	OKUMU	 Ksh2,000.00 	
+08/13/2021		AMINA	RAMADHAN	 Ksh2,000.00 	
+08/13/2021		REDEMPTA	ANDEKA	 Ksh2,000.00 	
+08/16/2021		CLARA	KIRO	 Ksh3,000.00 	
+09/06/2021		CLARA	KIRO	 Ksh8,000.00 	
+09/06/2021		ROSELINE	MUKAFWA	 Ksh8,000.00 	
+09/06/2021		AMINA	RAMADHAN	 Ksh7,000.00 	
+09/06/2021		LILLIAN	OKUMU	 Ksh6,000.00 	
+09/06/2021		SCHOLASTICA	BIYAKI	 Ksh6,000.00 	
+09/07/2021		REDEMPTA	ANDEKA	 Ksh6,000.00 	
+09/07/2021		LILLIAN	OKUMU	 Ksh6,000.00 	
+09/07/2021		SCHOLASTICA	BIYAKI	 Ksh6,000.00 	
+09/07/2021		ROSELINE	MUKAFWA	 Ksh8,000.00 	
+
+
+[
+ {
+   "id": 1,
+   "transaction_date": "01/18/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": " AMINA RAMADHAN",
+   "AMMOUNT": " Ksh1,500.00 "
+ },
+ {
+   "id": 2,
+   "transaction_date": "01/18/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "ROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh3,500.00 "
+ },
+ {
+   "id": 3,
+   "transaction_date": "01/25/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 4,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh9,000.00 "
+ },
+ {
+   "id": 5,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh9,000.00 "
+ },
+ {
+   "id": 6,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh3,500.00 "
+ },
+ {
+   "id": 7,
+   "transaction_date": "02/02/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "WAGESVIOLA CHEROTICH",
+   "AMMOUNT": " Ksh4,000.00 "
+ },
+ {
+   "id": 8,
+   "transaction_date": "02/04/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh10,000.00 "
+ },
+ {
+   "id": 9,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 10,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 11,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 12,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "WAGESVIOLA CHEROTICH",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 13,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 14,
+   "transaction_date": "03/12/2021",
+   "employee_id": 2013,
+   "EXPENDITURE": "WAGESTIMOTHY MWANGI",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 15,
+   "transaction_date": "03/19/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh3,000.00 "
+ },
+ {
+   "id": 16,
+   "transaction_date": "03/19/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh1,500.00 "
+ },
+ {
+   "id": 17,
+   "transaction_date": "03/19/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 18,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh3,000.00 "
+ },
+ {
+   "id": 19,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "WAGESVIOLA CHEROTICH",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 20,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh3,000.00 "
+ },
+ {
+   "id": 21,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh3,000.00 "
+ },
+ {
+   "id": 22,
+   "transaction_date": "03/31/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 23,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 24,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "WAGESVIOLA CHEROTICH",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 25,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 26,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 27,
+   "transaction_date": "04/23/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh1,500.00 "
+ },
+ {
+   "id": 28,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "WAGESVIOLA CHEROTICH",
+   "AMMOUNT": " Ksh5,000.00 "
+ },
+ {
+   "id": 29,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh3,500.00 "
+ },
+ {
+   "id": 30,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh5,000.00 "
+ },
+ {
+   "id": 31,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh5,000.00 "
+ },
+ {
+   "id": 32,
+   "transaction_date": "05/13/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh5,000.00 "
+ },
+ {
+   "id": 33,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 34,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2009,
+   "EXPENDITURE": "WAGESVIOLA CHEROTICH",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 35,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 36,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 37,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh1,000.00 "
+ },
+ {
+   "id": 38,
+   "transaction_date": "05/24/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "WAGESREDEMPTA ANDEKA",
+   "AMMOUNT": " Ksh1,300.00 "
+ },
+ {
+   "id": 39,
+   "transaction_date": "05/29/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh5,000.00 "
+ },
+ {
+   "id": 40,
+   "transaction_date": "06/01/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh3,000.00 "
+ },
+ {
+   "id": 41,
+   "transaction_date": "06/07/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh10,000.00 "
+ },
+ {
+   "id": 42,
+   "transaction_date": "06/08/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh4,000.00 "
+ },
+ {
+   "id": 43,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh4,000.00 "
+ },
+ {
+   "id": 44,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 45,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "WAGESREDEMPTA ANDEKA",
+   "AMMOUNT": " Ksh7,000.00 "
+ },
+ {
+   "id": 46,
+   "transaction_date": "06/09/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh4,000.00 "
+ },
+ {
+   "id": 47,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh12,000.00 "
+ },
+ {
+   "id": 48,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 49,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 50,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 51,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 52,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "WAGESREDEMPTA ANDEKA",
+   "AMMOUNT": " Ksh10,000.00 "
+ },
+ {
+   "id": 53,
+   "transaction_date": "07/17/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 54,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 55,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 56,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "WAGESREDEMPTA ANDEKA",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 57,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 58,
+   "transaction_date": "08/06/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 59,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 60,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 61,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 62,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 63,
+   "transaction_date": "08/13/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "WAGESREDEMPTA ANDEKA",
+   "AMMOUNT": " Ksh2,000.00 "
+ },
+ {
+   "id": 64,
+   "transaction_date": "08/16/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh3,000.00 "
+ },
+ {
+   "id": 65,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2002,
+   "EXPENDITURE": "WAGESCLARA KIRO",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 66,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh8,000.00 "
+ },
+ {
+   "id": 67,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2004,
+   "EXPENDITURE": "WAGESAMINA RAMADHAN",
+   "AMMOUNT": " Ksh7,000.00 "
+ },
+ {
+   "id": 68,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 69,
+   "transaction_date": "09/06/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 70,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2012,
+   "EXPENDITURE": "WAGESREDEMPTA ANDEKA",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 71,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2010,
+   "EXPENDITURE": "WAGESLILLIAN OKUMU",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 72,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2011,
+   "EXPENDITURE": "WAGESSCHOLASTICA BIYAKI",
+   "AMMOUNT": " Ksh6,000.00 "
+ },
+ {
+   "id": 73,
+   "transaction_date": "09/07/2021",
+   "employee_id": 2005,
+   "EXPENDITURE": "WAGESROSELINE MUKAFWA",
+   "AMMOUNT": " Ksh8,000.00 "
+ }
+]
