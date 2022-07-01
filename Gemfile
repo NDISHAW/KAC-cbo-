@@ -19,6 +19,8 @@ gem "rack-cors", "~> 1.1"
 # An object-relational mapper
 # https://guides.rubyonrails.org/active_record_basics.html
 gem "activerecord", "~> 6.1"
+gem "pg"
+gem 'puma'
 
 # Configures common Rake tasks for working with Active Record
 # https://github.com/sinatra-activerecord/sinatra-activerecord
@@ -29,13 +31,17 @@ gem "sinatra-activerecord", "~> 2.0"
 gem "rake", "~> 13.0"
 
 # Provides functionality to interact with a SQLite3 database
-gem "sqlite3", "~> 1.4"
+
 
 # Require all files in a folder
 gem "require_all", "~> 3.0"
 
+
+
 # These gems will only be used when we are running the application locally
 group :development do
+  # gem "pry", "~> 0.14.1"
+  gem "sqlite3", "~> 1.4"
 
   gem "pry", "~> 0.14.1"
 
@@ -53,5 +59,5 @@ group :test do
 end
 
 group :production do
-  gem “pg”
+  gem 'pg'
 end
