@@ -1,0 +1,17 @@
+current directory: /home/ndishaw/phase3project/project/KAC-cbo-/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/ndishaw/phase3project/project/KAC-cbo-/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20220701-23736-1iaadly sitelibdir\=./.gem.20220701-23736-1iaadly clean
+
+current directory: /home/ndishaw/phase3project/project/KAC-cbo-/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20220701-23736-1iaadly sitelibdir\=./.gem.20220701-23736-1iaadly
+compiling parser.c
+compiling thin.c
+linking shared-object thin_parser.so
+
+current directory: /home/ndishaw/phase3project/project/KAC-cbo-/vendor/bundle/ruby/2.7.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= sitearchdir\=./.gem.20220701-23736-1iaadly sitelibdir\=./.gem.20220701-23736-1iaadly install
+/bin/install -m 0755 thin_parser.so ./.gem.20220701-23736-1iaadly
