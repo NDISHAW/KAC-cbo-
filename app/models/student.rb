@@ -1,3 +1,3 @@
 class Student < ActiveRecord::Base
-    belongs_to :Parent
+    has_many :schoolfees
 end

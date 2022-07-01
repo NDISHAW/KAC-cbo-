@@ -46,8 +46,8 @@ ActiveRecord::Schema.define(version: 2022_06_29_213526) do
     t.datetime "date_of_birth"
     t.integer "parent_id"
     t.string "level"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "time"
+    t.datetime "updated_at"
   end
 
   create_table "wages", force: :cascade do |t|

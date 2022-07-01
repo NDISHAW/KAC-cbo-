@@ -6,7 +6,8 @@ class CreateStudents < ActiveRecord::Migration[6.1]
       t.datetime :date_of_birth
       t.integer :parent_id
       t.string :level
-      t.timestamps
+      t.timestamp :time
+      t.timestamp :updated_at
     end
   end
 end
